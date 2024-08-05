@@ -1,7 +1,7 @@
 export const monsters = [
   {
     id: 1,
-    name: 'Sage Rutherford',
+    name: 'Sage Rutherforlld',
     email: 'Clay.Batz43@yahoo.com',
   },
   {
